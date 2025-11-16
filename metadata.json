@@ -1,0 +1,8 @@
+{
+  "name": "P2P Social Feed",
+  "description": "A resilient, offline-first social feed application that simulates a decentralized, peer-to-peer network using a simple blockchain structure for post security.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
